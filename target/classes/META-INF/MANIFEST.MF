@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: USER
+Build-Jdk: 21.0.1
+Class-Path: lib/spring-webmvc-5.1.1.RELEASE.jar lib/spring-aop-5.1.1.REL
+ EASE.jar lib/spring-beans-5.1.1.RELEASE.jar lib/spring-context-5.1.1.RE
+ LEASE.jar lib/spring-core-5.1.1.RELEASE.jar lib/spring-jcl-5.1.1.RELEAS
+ E.jar lib/spring-expression-5.1.1.RELEASE.jar lib/spring-web-5.1.1.RELE
+ ASE.jar lib/servlet-api-3.0-alpha-1.jar
+Main-Class: com.javatpoint.HelloController1
+Created-By: Maven Integration for Eclipse
+
